@@ -12,7 +12,7 @@ class Config:
     OWNER_ID = int(os.getenv("OWNER_ID", 0))
     LOG_GROUP_ID = int(os.getenv("LOG_GROUP_ID", 0))
     BOT_NAME = "zenii X music"
-    BOT_USERNAME = "zenii_X_music_bot"
+    BOT_USERNAME = "Zenimusicbot"
     VERSION = "2.0.0"
     DEFAULT_PLAYLIST_LIMIT = 50
     PREMIUM_PLAYLIST_LIMIT = 200
