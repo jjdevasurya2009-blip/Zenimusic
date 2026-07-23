@@ -1,6 +1,6 @@
 pyrogram>=2.0.0
 apscheduler>=3.10.0
-py-tgcalls>=3.0.0
+py-tgcalls
 yt-dlp>=2024.0.0
 python-dotenv>=1.0.0
 motor>=3.0.0
